@@ -1,0 +1,18 @@
+visual encodings
+graphical perception
+aesthetics
+position encodings
+stream graphs
+small multiples
+Horizon graphs
+data density
+scatter plot matrix 
+brushing-and-linking
+Parallel coordinate
+cartographic projection
+Choropleth Maps
+graduated symbol map
+Cartograms
+Squarified treemaps
+treemap 
+Force-Directed Layout
